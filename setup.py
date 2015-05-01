@@ -8,6 +8,7 @@ with open(os.path.join(here, 'README.md')) as f:
 
 requires = [
     'bokeh',
+    'gitpython',
     'ipython',
     'jsonschema',
     'pyzmq',
